@@ -150,7 +150,38 @@ Best warming up food to make (where best means easiest materials to get, least t
 
 ## Misc. Gear
 
- * Vanir
+Vanir armor provides cold protection:
+
+ * HEAD: [Vanir Settler Jewelry](https://conanexiles.gamepedia.com/Vanir_Settler_Jewelry)
+ * HEAD: [Vanir Fur Cap](https://conanexiles.gamepedia.com/Vanir_Fur_Cap)
+ * CHEST: [Vanir Settler Vest](https://conanexiles.gamepedia.com/Vanir_Settler_Vest)
+ * HANDS: [Vanir Settler Gloves](https://conanexiles.gamepedia.com/Vanir_Settler_Gloves)
+ * LEGS: [Vanir Settler Breechclout](https://conanexiles.gamepedia.com/Vanir_Settler_Breechclout)
+ * FEET: [Vanir Settler Boots](https://conanexiles.gamepedia.com/Vanir_Settler_Boots)
+
+The Reptilian armor (Level 30) crafted at the [Armorer's Bench](https://conanexiles.gamepedia.com/Armorer%27s_Bench) does as well:
+
+ * HEAD: [Reptilian Helm](https://conanexiles.gamepedia.com/Reptilian_Helm)
+ * CHEST: [Reptilian Chestpiece](https://conanexiles.gamepedia.com/Reptilian_Chestpiece)
+ * HANDS: [Reptilian Gauntlets](https://conanexiles.gamepedia.com/Reptilian_Gauntlets)
+ * LEGS: [Reptilian Tasset](https://conanexiles.gamepedia.com/Reptilian_Tasset)
+
+It comes in Exceptional and Flawless variations,which provide +2 and +3 cold protection per item respectively.
+
+ * [Exceptional Reptilian Helm](https://conanexiles.gamepedia.com/Exceptional_Reptilian_Helm)
+ * [Flawless Reptilian Helm](https://conanexiles.gamepedia.com/Flawless_Reptilian_Helm)
+
+| Quality     | Requires   |
+|:------------|:-----------|
+| Normal      | none       |
+| Exceptional | T3 Armorer |
+| Flawless    | T4 Armorer |
+
+See:
+
+ * [Armorer](https://conanexiles.gamepedia.com/Armorer_(thrall))
+ * [Reptile Hide](https://conanexiles.gamepedia.com/Reptile_Hide)
+
 
 # Revisions
 
