@@ -165,6 +165,7 @@ The Reptilian armor (Level 30) crafted at the [Armorer's Bench](https://conanexi
  * CHEST: [Reptilian Chestpiece](https://conanexiles.gamepedia.com/Reptilian_Chestpiece)
  * HANDS: [Reptilian Gauntlets](https://conanexiles.gamepedia.com/Reptilian_Gauntlets)
  * LEGS: [Reptilian Tasset](https://conanexiles.gamepedia.com/Reptilian_Tasset)
+ * FEET: [Reptilian Boots](https://conanexiles.gamepedia.com/Reptilian_Boots)
 
 It comes in Exceptional and Flawless variations,which provide +2 and +3 cold protection per item respectively.
 
