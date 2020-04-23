@@ -9,7 +9,7 @@
  * All Warming Food and Drink
  * Miscellaneous
    * Misc. Attributes
-   * Misc. Crafting Stations
+   * Misc. Crafting Stations Recipes
    * Misc. Food
    * Misc. Gear
 
@@ -106,7 +106,7 @@ Best (*) warming food to make:
 
 * 3 Vitality Perk
 
-## Misc. Crafting Stations
+## Misc. Crafting Stations Recipes
 
 **[Campfire](https://conanexiles.gamepedia.com/Campfire)** (Level 3)
 
