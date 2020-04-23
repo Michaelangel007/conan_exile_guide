@@ -110,6 +110,9 @@ Best (*) warming food to make:
 
 **[Campfire](https://conanexiles.gamepedia.com/Campfire)** (Level 3)
 
+ * 5 Branch
+ * 12 Stone
+
 **[Grinder](https://conanexiles.gamepedia.com/Grinder)** (Level 17)
 
 * 50 Stone
