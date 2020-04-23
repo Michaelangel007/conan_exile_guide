@@ -3,15 +3,15 @@
 
 # Table of Contents
 
- * Introduction
- * Essentials
- * Best
- * All Warming Food and Drink
- * Miscellaneous
-   * Misc. Attributes
-   * Misc. Crafting Stations Recipes
-   * Misc. Food
-   * Misc. Gear
+ * [Introduction](https://github.com/Michaelangel007/conan_exile_guide/tree/master/warming_up_guide#introduction)
+ * [Essentials](https://github.com/Michaelangel007/conan_exile_guide/tree/master/warming_up_guide#essentials)
+ * [Best](https://github.com/Michaelangel007/conan_exile_guide/tree/master/warming_up_guide#best)
+ * [All Warming Food and Drink](https://github.com/Michaelangel007/conan_exile_guide/tree/master/warming_up_guide#all-warming-up-food-and-drink)
+ * [Miscellaneous](https://github.com/Michaelangel007/conan_exile_guide/tree/master/warming_up_guide#miscellaneous)
+   * [Misc. Attributes](https://github.com/Michaelangel007/conan_exile_guide/tree/master/warming_up_guide#misc-attributes)
+   * [Misc. Crafting Stations Recipes](https://github.com/Michaelangel007/conan_exile_guide/tree/master/warming_up_guide#misc-crafting-stations-recipes)
+   * [Misc. Food](https://github.com/Michaelangel007/conan_exile_guide/tree/master/warming_up_guide#misc-food)
+   * [Misc. Gear](https://github.com/Michaelangel007/conan_exile_guide/tree/master/warming_up_guide#misc-gear)
 
 
 # Introduction
