@@ -44,12 +44,8 @@ My [list](https://www.reddit.com/r/ConanExiles/comments/14k8ihi/what_are_the_mus
 * [Devious Desires](https://steamcommunity.com/sharedfiles/filedetails/?id=2300463941)
 * [GetClose ](https://steamcommunity.com/sharedfiles/filedetails/?id=2259976102)
 
-# Others
+# Others / Misc.
 
 * [ExilesExtreme](https://steamcommunity.com/sharedfiles/filedetails/?id=933782986)
-
-**Edit:** Add Fashionist.
-
-**Edit.2** Added more Building thems, Role-Playing, Misc.
 
 Last updated: Thu, Jul 13, 203.
