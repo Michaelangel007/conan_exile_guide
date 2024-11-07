@@ -43,8 +43,8 @@ There are ~47 emotes, some are duplicated.
 | Sigh           | `E6`  | NW of _Warren of Degenerates_   | | |
 | Sit            | `F10` | _Meadowwatch_                   | | |
 | Slit Throat    | `E10` | _Rimefisher's Hut_              | | |
-| Snake Dance    | `B6`  | _Southlake_ in _Sepermeru,_     | * MUST watch dancers (also hidden chest above) |
-| Spank          | `G5`  | _The Summoning Place_           | * By entrance, left of stairs |
+| Snake Dance    | `B6`  | _Southlake_ in _Sepermeru,_     | * | MUST watch dancers (also hidden chest above) |
+| Spank          | `G5`  | _The Summoning Place_           | * | By entrance, left of stairs |
 | Spit           | `B11` | _Mounds of the Dead_            | | |
 | Squirm         | `H6`  | _The Sinkhole_ obelisk          | * | (Harlot's Journal #7) |
 | Submissive     | `F4`  | North of _Shattered Bridge_     | | |
