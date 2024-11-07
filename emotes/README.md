@@ -1,9 +1,9 @@
 # Emotes
 
-There are ~47 emotes, some are duplicated.
+There are ~48 emotes, some are duplicated.
 
 | Emote          | Grid  | Nearest Named Location    | Verified| Notes |
-|:---------------|:------|:--------------------------------|:-:|:------------|
+|:---------------|:------|:--------------------------------|:-:|:------|
 |Aquilonian Dance| `I6`  | NW of _Mitra's Serenity         | | also SE of _The Arena_ entrance |
 | Arms Crossed   | `E3`  | SW of _Shattered Bridge_        | | |
 | Bear Hug       | `B7`  | _Temple Quarter_                | * | (Techtosa's Journal #2) |
@@ -20,7 +20,7 @@ There are ~47 emotes, some are duplicated.
 | Comb Hair      | `D4`  | _Skulker's End_                 | | |
 | Come Here      | `G6`  | _Hand of the Maker_             | | |
 | Fist Punch     | `B10` | _King's Niche_                  | | |
-| Flirt          | `A7`  | _Westwall_ in _Sepermeru_       | * | (Harlot's Journal #2), also Daya Leaddrinker, Smelter may be here |
+| Flirt          | `A7`  | _Westwall_ in _Sepermeru_       | * | (Harlot's Journal #2), also unrelated Daya Leaddrinker, Smelter may be here |
 | Grovel (?)     | `F7`  | _Weaver's Hollow_               | | |
 | Grovel         | `B7`  | _Temple Quarter_                | * | (Techtosa's Journal #3) |
 | Khitan Dance   | `D4`  | _Algar's Overlook_              | | |
@@ -43,7 +43,7 @@ There are ~47 emotes, some are duplicated.
 | Sigh           | `E6`  | NW of _Warren of Degenerates_   | | |
 | Sit            | `F10` | _Meadowwatch_                   | | |
 | Slit Throat    | `E10` | _Rimefisher's Hut_              | | |
-| Snake Dance    | `B6`  | _Southlake_ in _Sepermeru,_     | * | MUST watch dancers (also hidden chest above) |
+| Snake Dance    | `B6`  | _Southlake_ in _Sepermeru,_     | * | MUST watch dancers; also unrelated hidden chest above |
 | Spank          | `G5`  | _The Summoning Place_           | * | By entrance, left of stairs |
 | Spit           | `B11` | _Mounds of the Dead_            | | |
 | Squirm         | `H6`  | _The Sinkhole_ obelisk          | * | (Harlot's Journal #7) |
