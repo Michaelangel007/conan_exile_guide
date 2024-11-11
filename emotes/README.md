@@ -95,7 +95,9 @@ Press `Ctrl`-`Shift`-`Alt`-`L` to toggle displaying your location coordinates. I
                        South
               +216800 The Dregs entrance
 
-* The origin `o`, (0, 0, 0), is located at `G9` _below_ the ground.
+* The origin `o`, <0, 0, 0>, is located at `G9` **up in the air** which is why you may sometimes see Thralls (or chests) up there!
+
+![0, 0, 0](0_0_0.png)
 
 Examples:
 
