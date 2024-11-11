@@ -72,7 +72,7 @@ Maybe next decade Funcom will add this list in-game ... /s
 
 # Coordinates
 
-Press `Ctrl`-`Shift-`Alt`-`L` to toggle displaying your location coordinates. If you are not familiar with the X, Y, Z coordinates displayed know that Conan Exiles uses Unreal Engine 4 which uses a Left-Handed Coordinate system:
+Press `Ctrl`-`Shift`-`Alt`-`L` to toggle displaying your location coordinates. If you are not familiar with the X, Y, Z coordinates displayed know that Conan Exiles uses Unreal Engine 4 which uses a Left-Handed Coordinate system:
 
   * +X is East (+9999 is towards the Jungle, -9999 is towards Sepermeru)
   * +Y is South
