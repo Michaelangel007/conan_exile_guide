@@ -56,7 +56,7 @@ There are 48 emotes; some are duplicated and can be learnt at multiple locations
 |Taunt       | Taunt          | `B7`  | East of _The Dawn Gate_         | `TeleportPlayer -240000  98100   -3900` | Talk to _Gilzan the Treasure Hunter_ |
 |Taunt       | Taunt          | `F6`  | _The Slave Road_                | `TeleportPlayer  -74600 112500   -8100` | Talk to _Gilzan the Treasure Hunter,_ West of _The Slave Road_ |
 |Dance       | War Dance      | `F5`  | _The Cursed Way_                | `TeleportPlayer  -42400 169500   -6800` | Watch ghosts in front of campfire and benches |
-|Expression  | Yawn           | `D8`  | _The Slaveway_                  | `TeleportPlayer -162600   30450  -1600` | Ophirean Journal #7 | Propped up on wall between campfire and bedroll |
+|Expression  | Yawn           | `D8`  | _The Slaveway_                  | `TeleportPlayer -162600  30450   -1600` | Ophirean Journal #7 | Propped up on wall between campfire and bedroll |
 
 Maybe next decade Funcom will add this list in-game ... /s
 
