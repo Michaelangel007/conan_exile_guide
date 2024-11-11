@@ -72,27 +72,29 @@ Maybe next decade Funcom will add this list in-game ... /s
 
 # Coordinates
 
-Press `Ctrl`-`Shift`-`Alt`-`L` to toggle displaying your location coordinates. If you are not familiar with the X, Y, Z coordinates displayed know that Conan Exiles uses Unreal Engine 4 which uses a Left-Handed Coordinate system:
+Press `Ctrl`-`Shift`-`Alt`-`L` to toggle displaying your location coordinates. If you are not familiar with how the X, Y, Z coordinates work then here is a primer.  Conan Exiles uses Unreal Engine 4 which uses a Left-Handed Coordinate System (LHCS):
 
-  * +X is East (+9999 is towards the Jungle, -9999 is towards Sepermeru)
-  * +Y is South
-  * +Z is Up (+8600 top, -20000 is the bottom of _Skulker's End_)
+  * +X is East (+9999 is East towards the Jungle, -9999 is West towards Sepermeru)
+  * +Y is South (+216819 is South by _The Dregs_, -240900 is North in the cold)
+  * +Z is Up (+8600 top of Fingerfang Rock , -20000 bottom of a "crater", such as _Skulker's End_)
 
-         +------------------+
-         |                  |
-         |                  |
-         |       G9         |
-         |                  |
-         |  o----> +X East  | +9999 (Jungle)
-         |  |               |
-         |  |               |
-         |  v               |
-         |  +Y South        |
-         |                  |
-         +------------------+
-           +216800 The Dredge
+                    North
+             +------------------+
+             |                  |
+             |                  |
+             |       G9         |
+             |                  |
+       West  |  o----> +X       | East
+             |  |               | +9999 (towards Jungle and Ocean)
+             |  |               |
+             |  v               |
+             |  +Y              |
+             |                  |
+             +------------------+
+                    South
+                +216800 The Dregs entrance
 
-* `0, 0, 0` is located at `G9` _below_ the ground. (The southern side of the map goes down to -20000)
+* The origin `o`, (0, 0, 0), is located at `G9` _below_ the ground.
 
 Examples:
 
