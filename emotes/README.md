@@ -78,21 +78,21 @@ Press `Ctrl`-`Shift`-`Alt`-`L` to toggle displaying your location coordinates. I
   * +Y is South (+216819 is South by _The Dregs_, -240900 is North in the cold)
   * +Z is Up (+8600 top of Fingerfang Rock , -20000 bottom of a "crater", such as _Skulker's End_)
 
-                    North
-             +------------------+
-             |                  |
-             |                  |
-             |       G9         |
-             |                  |
-       West  |  o----> +X       | East
-             |  |               | +9999 (towards Jungle and Ocean)
-             |  |               |
-             |  v               |
-             |  +Y              |
-             |                  |
-             +------------------+
-                    South
-                +216800 The Dregs entrance
+                     North
+              +------------------+
+              |                  |
+              |                  |
+              |       G9         |
+              |                  |
+        West  |  o----> +X       | East
+              |  |               | +9999 (towards Jungle and Ocean)
+              |  |               |
+              |  v               |
+              |  +Y              |
+              |                  |
+              +------------------+
+                     South
+                 +216800 The Dregs entrance
 
 * The origin `o`, (0, 0, 0), is located at `G9` _below_ the ground.
 
