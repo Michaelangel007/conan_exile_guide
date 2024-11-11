@@ -78,19 +78,19 @@ Press `Ctrl`-`Shift`-`Alt`-`L` to toggle displaying your location coordinates. I
   * +Y is South
   * +Z is Up (+8600 top, -20000 is the bottom of _Skulker's End_)
 
-     +------------------+
-     |                  |
-     |                  |
-     |       G9         |
-     |                  |
-     |  o----> +X East  | +9999 (Jungle)
-     |  |               |
-     |  |               |
-     |  v               |
-     |  +Y South        |
-     |                  |
-     +------------------+
-       +216800 The Dredge
+         +------------------+
+         |                  |
+         |                  |
+         |       G9         |
+         |                  |
+         |  o----> +X East  | +9999 (Jungle)
+         |  |               |
+         |  |               |
+         |  v               |
+         |  +Y South        |
+         |                  |
+         +------------------+
+           +216800 The Dredge
 
 * `0, 0, 0` is located at `G9` _below_ the ground. (The southern side of the map goes down to -20000)
 
