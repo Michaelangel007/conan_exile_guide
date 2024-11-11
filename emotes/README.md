@@ -1,6 +1,6 @@
 # Emotes
 
-There are 498 emotes; some are duplicated and can be learnt at multiple locations such as the Worship ones.
+There are 48 emotes; some are duplicated and can be learnt at multiple locations such as the Worship ones.
 
 |Category    | Emote          | Grid  | Nearest Named Location          | Coordinates                             | Notes |
 |:-----------|:---------------|:------|:--------------------------------|:---------------------------------------:|:------|
